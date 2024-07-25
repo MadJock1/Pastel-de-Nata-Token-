@@ -25,18 +25,18 @@ TON is a scalable and secure blockchain platform that supports high transaction 
 - **Decentralization**: Operates on a decentralized network, reducing the risk of single points of failure.
 - **Smart Contracts**: Supports complex smart contracts, enabling sophisticated functionalities for NFTs and gaming.
 
-## Pastel Nata Token (PNT)
+## Pastel Nata Token (PDNT)
 ### Token Details
 - **Name**: Pastel Nata
-- **Symbol**: PNT
+- **Symbol**: PDNT
 - **Platform**: TON
 - **Standard**: TON20
-- **Total Supply**: 1,000,000,000 PNT
+- **Total Supply**: 1,000,000,000 PDNT
 
 ### Use Cases
-- **NFT Marketplace**: PNT will be the primary currency for buying, selling, and trading NFTs on the Pastel Nata platform.
-- **Play-to-Earn Gaming**: Gamers can earn PNT by participating in games, completing quests, and achieving in-game milestones.
-- **Staking and Rewards**: Users can stake PNT to earn rewards and participate in governance decisions.
+- **NFT Marketplace**: PDNT will be the primary currency for buying, selling, and trading NFTs on the Pastel Nata platform.
+- **Play-to-Earn Gaming**: Gamers can earn PDNT by participating in games, completing quests, and achieving in-game milestones.
+- **Staking and Rewards**: Users can stake PDNT to earn rewards and participate in governance decisions.
 
 ## NFT Marketplace
 ### Features
@@ -56,7 +56,7 @@ TON is a scalable and secure blockchain platform that supports high transaction 
 - **Player Ownership**: True ownership of in-game assets as NFTs.
 
 ### Key Games
-- **Initial Game Releases**: List of initial games integrating PNT and their unique features.
+- **Initial Game Releases**: List of initial games integrating PDNT and their unique features.
 - **Future Developments**: Roadmap for expanding the game portfolio.
 
 ## Economic Model
